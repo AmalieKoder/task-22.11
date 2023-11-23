@@ -27,7 +27,7 @@ cat.addEventListener("click", function() {
 corgiPuppy.addEventListener("click", function() {
     if (task2ChangeSzizeImg == true){
        corgiPuppy.classList = "bigSize";
-       fox.classList = "bigSize";
+       fox.classList = "diffrentSize";
        lion.classList = "bigSize";
        task2ChangeSzizeImg = false;
     }else{
