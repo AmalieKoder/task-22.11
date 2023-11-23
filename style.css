@@ -17,3 +17,10 @@ body {
     width: 350px;
     height: 350px;
 }
+
+.diffrentSize {
+    cursor: pointer;
+
+    width: 80px;
+    height: 100px;
+}
